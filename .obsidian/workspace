@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "87fbe8feb439282b",
+        "id": "e7d2afa273eaaf39",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "resume/Theodore_GARSON.pdf"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "resume/Theodore_GARSON.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +85,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Theodore_GARSON.pdf",
+    "about.md",
     "Untitled.md",
     "test.md"
   ]
