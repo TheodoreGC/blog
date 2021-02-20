@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/about.md",
+            "file": "posts/Building a personal website with Svelte, GitHub and Markdown files.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/about.md",
+                "file": "posts/Building a personal website with Svelte, GitHub and Markdown files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "posts/Untitled.md",
     "pages/about.md",
+    "posts/test.md",
+    "README.md",
+    "resume/Theodore_GARSON.pdf",
     "Theodore_GARSON.pdf",
     "about.md",
     "Untitled.md",
