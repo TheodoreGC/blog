@@ -88,7 +88,7 @@ Standard link =  http://ghost.org
 
 ---
 
-![Image](https://dl.dropboxusercontent.com/u/41297054/Pic.jpeg)
+![Image](https://live.staticflickr.com/2915/33946226566_c632fd205a_k.jpg)
 
 ---
 
