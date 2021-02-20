@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Building a personal website with Svelte, GitHub and Markdown files.md",
-            "mode": "source"
+            "file": "posts/Markdown Cheatsheet.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Building a personal website with Svelte, GitHub and Markdown files.md",
+                "file": "posts/Markdown Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
