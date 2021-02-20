@@ -1,26 +1,35 @@
 #Heading 1
+
 ##Heading 2
+
 ###Heading 3
+
 ####Heading 4
+
 #####Heading 5
+
 ######Heading 6	
 
 ---
 
 Paragraph
-text \`Inline Code\` text		
+
+text `Inline Code` text		
+
 ~~Mistaken text.~~	
-\*Italics\*	
-\*\*Bold\*\*	
+
+*Italics*
+
+**Bold**	
 
 ---
 
 Tasks
-- \[ \] a task list item
-- \[ \] list syntax required
-- \[ \] normal \*\*formatting\*\*
-- \[ \] incomplete
-- \[x\] completed
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**
+- [ ] incomplete
+- [x] completed
 
 ---
 
@@ -30,7 +39,7 @@ Code Blocks
     makes full-width
     standard code blocks
 
-\`\`\`js
+```js
 var now = new Date();
 
 var days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
@@ -48,9 +57,9 @@ today =  days\[now.getDay()\] + ", " +
          (fourdigits(now.getYear())) ;
 
 document.write(today);
-\`\`\`
+```
 
-\`\`\`css
+```css
 #sc\_drag\_area {
   height:100px;
   left:150px;
@@ -59,13 +68,13 @@ document.write(today);
   width:250px;
   z-index: 9999;
 }
-\`\`\`
+```
 
 ---
 
-\* List item one
-\* List item two
-    \* A nested item
+* List item one
+* List item two
+    * A nested item
 
 ---
 
@@ -83,11 +92,12 @@ document.write(today);
 ---
 
 Standard link =  http://ghost.org	
-\[Custom Text Link\](http://ghost.org)
+
+[Custom Text Link](http://ghost.org)
 
 ---
 
-!\[Image\](https://dl.dropboxusercontent.com/u/41297054/Pic.jpeg)
+![Image](https://dl.dropboxusercontent.com/u/41297054/Pic.jpeg)
 
 ---
 
