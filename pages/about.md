@@ -30,7 +30,7 @@ Simply put, Obsidian works with folders of markdown files. It makes it a portabl
 
 If you want to chat with me, the best way is to ping me on [LinkedIn](https://www.linkedin.com/in/theodoregarsoncorbeaux/) or send me an [email](mailto:theodore.corbeaux@gmail.com).
 
-If you **_must_** call me: first of all, congratulations because I don't share my phone number usually; I will warn you there is a strong likelihood I will not answer the call. If it is something about a project I maintain, please file an issue instead. If if is about a job opportunity, make sure you went through my [resume](../resume/Theodore_GARSON.pdf) first.
+If you **_must_** call me: first of all, congratulations because I don't share my phone number usually; I will warn you there is a strong likelihood I will not answer the call. If it is something about a project I maintain, please file an issue instead. If if is about a job opportunity, make sure you went through my [resume](https://github.com/TheodoreGC/blog/blob/master/resume/Theodore_GARSON.pdf) first.
 
 ## Disclaimer
 
