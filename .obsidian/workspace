@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Markdown Cheatsheet.md",
+            "file": "posts/Git Cheatsheet.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Markdown Cheatsheet.md",
+                "file": "posts/Git Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e7d2afa273eaaf39",
   "lastOpenFiles": [
+    "posts/Untitled.md",
     "posts/Markdown Cheatsheet.md",
     "posts/Building a personal website with Svelte, GitHub and Markdown files.md",
     "posts/Opening GitHub Discussions to react on blog posts.md",
@@ -95,7 +96,6 @@
     "resume/Theodore_GARSON.pdf",
     "pages/about.md",
     "posts/test.md",
-    "posts/Untitled.md",
     "Theodore_GARSON.pdf",
     "about.md"
   ]
