@@ -6,11 +6,10 @@
       {
         "id": "e7d2afa273eaaf39",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/about.md",
+            "file": "posts/Markdown Cheatsheet.md",
             "mode": "source"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/about.md",
+                "file": "posts/Markdown Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,15 +86,16 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "e7d2afa273eaaf39",
   "lastOpenFiles": [
-    "pages/about.md",
+    "posts/Markdown Cheatsheet.md",
     "posts/Building a personal website with Svelte, GitHub and Markdown files.md",
     "posts/Opening GitHub Discussions to react on blog posts.md",
-    "posts/Markdown Cheatsheet.md",
-    "posts/test.md",
-    "posts/Untitled.md",
     "README.md",
     "resume/Theodore_GARSON.pdf",
+    "pages/about.md",
+    "posts/test.md",
+    "posts/Untitled.md",
     "Theodore_GARSON.pdf",
     "about.md"
   ]
