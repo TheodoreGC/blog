@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Git Cheatsheet.md",
+            "file": "posts/Javascript Field Guide.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Git Cheatsheet.md",
+                "file": "posts/Javascript Field Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e7d2afa273eaaf39",
   "lastOpenFiles": [
+    "posts/Javascript Field Guide.md",
     "posts/Untitled.md",
+    "posts/Building a voting API using Rust.md",
+    "posts/Docker Cheatsheet.md",
+    "posts/Git Cheatsheet.md",
     "posts/Markdown Cheatsheet.md",
     "posts/Building a personal website with Svelte, GitHub and Markdown files.md",
     "posts/Opening GitHub Discussions to react on blog posts.md",
     "README.md",
-    "resume/Theodore_GARSON.pdf",
-    "pages/about.md",
-    "posts/test.md",
-    "Theodore_GARSON.pdf",
-    "about.md"
+    "resume/Theodore_GARSON.pdf"
   ]
 }
